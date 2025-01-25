@@ -1,0 +1,9 @@
+pandas
+openai
+psycopg2
+python-dotenv
+timescale-vector
+instructor
+anthropic
+transformers
+torch

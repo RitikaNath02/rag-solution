@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Environment variables file
+.env
+
+# Docker files
+*.log
+*.pid
+
+# Dataset files (if you don't want to push large data files)
+data/*.xlsx
+data/*.csv
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
